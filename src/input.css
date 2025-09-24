@@ -8,3 +8,12 @@ background: linear-gradient(90.95deg, rgba(61, 184, 70, 0) 2.44%, #3DB846 56.96%
 box-shadow: 0px 12px 12px rgba(42, 124, 48, 0.34);
 border-radius: 40px;
 }
+.bg1{
+    background-image: url(./img/image\ copy\ 2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
