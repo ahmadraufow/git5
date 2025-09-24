@@ -17,3 +17,12 @@ border-radius: 40px;
     height: auto;
     border-radius: 30px;
 }
+.zz{
+     background-image: url(./img/image\ copy\ 14.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
