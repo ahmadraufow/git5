@@ -598,6 +598,10 @@ video {
   align-items: center;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
 .justify-between {
   justify-content: space-between;
 }
@@ -661,6 +665,10 @@ video {
   font-size: 40px;
 }
 
+.text-\[30px\] {
+  font-size: 30px;
+}
+
 .font-\[400\] {
   font-weight: 400;
 }
@@ -695,6 +703,19 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\] {
+  color: ;
+}
+
+.text-\[v\] {
+  color: v;
+}
+
+.text-\[\#5E4520\] {
+  --tw-text-opacity: 1;
+  color: rgb(94 69 32 / var(--tw-text-opacity, 1));
 }
 
 .h{
