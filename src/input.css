@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 .h{
-width: 189px;
-height: 57px;
+width: 199px;
+height: 67px;
 background: linear-gradient(90.95deg, rgba(61, 184, 70, 0) 2.44%, #3DB846 56.96%, rgba(61, 184, 70, 0) 99.45%), #447C2A;
 box-shadow: 0px 12px 12px rgba(42, 124, 48, 0.34);
 border-radius: 40px;
