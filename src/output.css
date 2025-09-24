@@ -582,6 +582,10 @@ video {
   margin-top: ;
 }
 
+.mt-\[50px\] {
+  margin-top: 50px;
+}
+
 .flex {
   display: flex;
 }
@@ -660,6 +664,10 @@ video {
 
 .gap-6 {
   gap: 1.5rem;
+}
+
+.gap-10 {
+  gap: 2.5rem;
 }
 
 .rounded-lg {
@@ -850,6 +858,11 @@ video {
 
 .text-\[\] {
   color: ;
+}
+
+.text-\[\#447C2A\] {
+  --tw-text-opacity: 1;
+  color: rgb(68 124 42 / var(--tw-text-opacity, 1));
 }
 
 .filter {
